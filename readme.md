@@ -1,11 +1,12 @@
-Simple nonsense web made with FLynerd tutorial: 
+Nonesense
+-----------------------------------------------
 
+Simple nonsense web made with flynerd tutorial available here:
 https://www.flynerd.pl/2018/12/ta-strona-nie-ma-sensu-prosty-tutorial-html-i-css.html
 
------------------
-Credits:
-cherry png
-https://www.vippng.com/preview/Jiwhbx_cute-cherry-cherry/
+HTML and CSS practice.
 
-floral wreath:
-https://pl.pngtree.com/freepng/pink-gold-leaf-floral-wreath-border_4015018.html
+### Credits:
+cherry.png: https://www.vippng.com/preview/Jiwhbx_cute-cherry-cherry/
+
+floralwreath.png: https://pl.pngtree.com/freepng/pink-gold-leaf-floral-wreath-border_4015018.html
